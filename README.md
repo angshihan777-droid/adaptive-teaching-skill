@@ -38,10 +38,6 @@
 
 把新路径告诉它就行。
 
-### 换电脑
-
-把 `SKILL.md` 复制到新电脑的 `~/.codex/skills/agent-interview-mentor/` 下面。
-
 ## 学习计划文件要求
 
 计划文件需要包含：
@@ -71,12 +67,4 @@ agent-interview-mentor/
 └── 更新日志.md     # 版本历史
 ```
 
-## 维护
 
-每次改动 SKILL.md：
-
-1. 修改 `~/.codex/skills/agent-interview-mentor/SKILL.md`
-2. 同步一份镜像到自己的笔记库
-3. 追加一条更新日志
-
-镜像路径只用于维护和备份，不是学习计划路径；学习计划路径永远在开场向学习者要。
